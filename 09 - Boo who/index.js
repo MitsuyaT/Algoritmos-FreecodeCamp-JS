@@ -7,3 +7,7 @@ function booWho(bool) {
   }
   
   booWho(null);
+
+
+// Escribe un programa en JavaScript que tome dos números como entrada del usuario 
+//y muestre cuál de los dos números es mayor.
